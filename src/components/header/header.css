@@ -1,0 +1,19 @@
+
+.navbar-brand {
+    position: relative;
+    padding-left: 50px;
+}
+
+.brand {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    display: inline-block;
+    background: #2d2d2d url('https://media.licdn.com/dms/image/C4E0BAQFpNs1YT5XXBQ/company-logo_200_200/0?e=2159024400&v=beta&t=gfq3E3T5aKZhjF9H9_MsOZBDc4aMm6xRjwn4W9TkrUU') no-repeat center center;
+    width: 40px;
+    height: 40px;
+    background-size: 90%;
+    border-radius: 20px;
+}
+
+
